@@ -7,16 +7,21 @@ The Movie List App is built using Reactjs, with the main goal of enhancing skill
 ## How to Use the App
 
 1. **Open the Website Page**
+
    - Access the application's website page to start using it.
+   - [List Movie Application](https://sb-movies-list-application.netlify.app/)
 
 2. **Search for Desired Movies**
+
    - Use the search feature to find the desired film or movie.
 
 3. **View Movie Details**
+
    - Click the detail button on the desired film to see more information.
    - A modal will appear, displaying comprehensive details about the movie.
 
 4. **Save to My List**
+
    - On the movie detail modal, find the "Save to My List movies" button.
    - Press this button to save the movie to your personal list.
 
