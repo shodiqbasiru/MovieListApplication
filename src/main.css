@@ -35,6 +35,7 @@ body {
 
 footer {
   margin-top: 3rem;
+  padding: 2rem;
   width: 100%;
   background-color: var(--background-dark);
   color: #fff;
