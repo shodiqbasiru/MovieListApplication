@@ -62,7 +62,7 @@ class MoviesApp extends React.Component {
     const { movies, searchValue } = this.state;
     return (
       <>
-        <div className="p-3 mt-3">
+        <div className="p-5 mt-3">
           <MoviesSearchItem onSearch={this.onSearchHandler} />
           <Container fluid>
             <Row className="h-25">

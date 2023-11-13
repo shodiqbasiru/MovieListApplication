@@ -1,6 +1,7 @@
 body {
   background-color: var(--background-dark);
   color: rgb(255, 255, 255);
+  position: relative;
 }
 
 :root {
@@ -29,5 +30,12 @@ body {
 
 .my-modal .modal-content {
   background-color: var(--background-card);
+  color: #fff;
+}
+
+footer {
+  margin-top: 3rem;
+  width: 100%;
+  background-color: var(--background-dark);
   color: #fff;
 }
